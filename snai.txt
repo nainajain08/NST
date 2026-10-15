@@ -1,1 +1,1 @@
-hello snai, i hate CLI but hate git more
+hello snai, i hate CLI but i hate git more
